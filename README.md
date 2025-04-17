@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🙋‍♂️ About Me:<br><br>🎯 I'm currently working on building a standout GitHub profile and leveling up my open-source contributions.  <br>🤝 I'm looking to collaborate on meaningful projects, especially in the startup or edtech space.  <br>🧠 I'm looking for help with strategic prep for CAT & GMAT — tips and resources are welcome!  <br>🌱 I'm currently learning advanced data structures, system design, and brushing up on quant/verbal for MBA entrance prep.  <br>💬 Ask me about frontend frameworks, Markdown magic, or study strategies for competitive exams.  <br>⚡ Fun fact: I’m aiming to launch my own startup 🚀 while pursuing an MBA dream. Let’s see where this path leads!<br>
+<br><br>🎯 I'm currently working on building a standout GitHub profile and leveling up my open-source contributions.  <br>🤝 I'm looking to collaborate on meaningful projects, especially in the startup or edtech space.  <br>🧠 I'm looking for help with strategic prep for CAT & GMAT — tips and resources are welcome!  <br>🌱 I'm currently learning advanced data structures, system design, and brushing up on quant/verbal for MBA entrance prep.  <br>💬 Ask me about frontend frameworks, Markdown magic, or study strategies for competitive exams.  <br>⚡ Fun fact: I’m aiming to launch my own startup 🚀 while pursuing an MBA dream. Let’s see where this path leads!<br>
 
 
 ## 🌐 Socials:
@@ -25,3 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=namanrathi8830&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
